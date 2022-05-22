@@ -1,0 +1,23 @@
+{
+    "name": "code de enlaces directos",
+    "description": "El codigo de enlaces directos",
+    "logo": "https://telegra.ph/file/4b8a36e545420d053f843.png",
+    "env": {
+        "API_HASH": {
+            "description": "Cogelo en my.telegram.org",
+            "value": ""
+        },
+        "API_ID": {
+            "description":"Cogelo en my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description":"Cogelo en @Botfather",
+            "value": ""
+        },
+        "BOT_ADMIN_GROUP":{
+            "description": "Cogelo con Megu o Con Rose, agregala a un grupo y mete ahi el bot y hazlo admin, luego pones /id y ese ID lo pones aqui",
+            "value": ""
+        }
+    }
+}
