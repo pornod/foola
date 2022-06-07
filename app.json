@@ -14,10 +14,6 @@
         "BOT_TOKEN": {
             "description":"Cogelo en @Botfather",
             "value": ""
-        },
-        "BOT_ADMIN_GROUP":{
-            "description": "Cogelo con Megu o Con Rose, agregala a un grupo y mete ahi el bot y hazlo admin, luego pones /id y ese ID lo pones aqui",
-            "value": ""
         }
     }
 }
