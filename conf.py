@@ -3,4 +3,4 @@ import os
 api_hash = os.environ.get("API_HASH", "")
 api_id = os.environ.get("API_ID", "")
 bot_token = os.environ.get("BOT_TOKEN", "")
-bot_admin_group = -797100485
+bot_admin_group = -1001680597763
